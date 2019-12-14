@@ -1,0 +1,19 @@
+{
+    "minScore" : 30,
+    "users' results" : [
+        {
+            "userId" : 4,
+            "userScores" : 25
+        },
+
+        {
+            "userId" : 5,
+            "userScores" : 35
+        },
+
+        {
+            "userId" : 10,
+            "userScores" : 30
+        }
+    ]
+}

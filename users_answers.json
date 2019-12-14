@@ -1,0 +1,132 @@
+{
+    "users": [
+        {
+            "userId" : 2,
+            "examId" : 1
+        },
+
+        {
+            "userId" : 4,
+            "examId" : 3
+        },
+
+        {
+            "userId" : 5,
+            "examId" : 3
+        },
+
+        {
+            "userId" : 6,
+            "examId" : 4
+        }
+    ],
+
+    "questions": [
+        {
+            "questionId": 1,
+            "answerIds": [21]
+        },
+
+        {
+            "questionId": 2,
+            "answerIds": [52]
+        },
+
+        {
+            "questionId": 3,
+            "answerIds": [22]
+        },
+
+        {
+            "questionId": 7,
+            "answerIds": [27, 29]
+        },
+
+        {
+            "questionId": 8,
+            "answerIds": [28, 39]
+        },
+
+        {
+            "questionId": 9,
+            "answerIds": [59, 29]
+        },
+
+        {
+            "questionId": 10,
+            "answerIds": [50]
+        },
+
+        {
+            "questionId": 11,
+            "answerIds": [31]
+        },
+
+        {
+            "questionId": 12,
+            "answerIds": [32]
+        }
+    ],
+
+    "answers": [
+        {
+            "id" : 21,
+            "userId" : 2
+        },
+
+        {
+            "id" : 52,
+            "userId" : 2
+        },
+        
+        {
+            "id" : 22,
+            "userId" : 2
+        },
+
+        {
+            "id" : 27,
+            "userId" : 4
+        },
+
+        {
+            "id" : 29,
+            "userId" : 5
+        },
+
+        {
+            "id" : 28,
+            "userId" : 4
+        },
+
+        {
+            "id" : 39,
+            "userId" : 5
+        },
+
+        {
+            "id" : 59,
+            "userId" : 4
+        },
+
+        {
+            "id" : 29,
+            "userId" : 5
+        },
+
+        {
+            "id" : 50,
+            "userId" : 6
+        },
+
+        {
+            "id" : 31,
+            "userId" : 6
+        },
+
+        {
+            "id" : 32,
+            "userId" : 6
+        }
+    ]
+}

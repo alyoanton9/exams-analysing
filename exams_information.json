@@ -1,0 +1,141 @@
+{
+    "trainers": [
+        {
+            "userId": 1,
+            "examId": 3
+        },
+
+        {
+            "userId": 2,
+            "examId": 4
+        },
+
+        {
+            "userId": 3,
+            "examId": 1
+        }
+    ],
+
+    "exams": [
+        {
+            "examId" : 1,
+            "scoreMin" : 30,
+            "questionIds" : [1, 2, 3]
+        },
+
+        {
+            "examId" : 3,
+            "scoreMin" : 30,
+            "questionIds" : [7, 8, 9]
+        },
+
+        {
+            "examId" : 4,
+            "scoreMin" : 35,
+            "questionIds" : [10, 11, 12]
+        }
+    ],
+
+    "questions": [
+        {
+            "questionId": 1,
+            "score": 10,
+            "answerId": 21
+        },
+
+        {
+            "questionId": 2,
+            "score": 20,
+            "answerId": 22
+        },
+
+        {
+            "questionId": 3,
+            "score": 20,
+            "answerId": 23
+        },
+
+        {
+            "questionId": 7,
+            "score": 13,
+            "answerId": 27
+        },
+
+        {
+            "questionId": 8,
+            "score": 17,
+            "answerId": 28
+        },
+
+        {
+            "questionId": 9,
+            "score": 30,
+            "answerId": 29
+        },
+
+        {
+            "questionId": 10,
+            "score": 13,
+            "answerId": 30
+        },
+
+        {
+            "questionId": 11,
+            "score": 35,
+            "answerId": 31
+        },
+
+        {
+            "questionId": 12,
+            "score": 22,
+            "answerId": 32
+        }
+    ],
+
+    "answers": [
+        {
+            "answerId": 21,
+            "isCorrect": 1
+        },
+
+        {
+            "answerId": 22,
+            "isCorrect": 0
+        },
+
+        {
+            "answerId": 23,
+            "isCorrect": 1
+        },
+
+        {
+            "answerId": 27,
+            "isCorrect": 1
+        },
+
+        {
+            "answerId": 28,
+            "isCorrect": 0
+        },
+
+        {
+            "answerId": 29,
+            "isCorrect": 1
+        },
+
+        {
+            "answerId": 30,
+            "isCorrect": 1
+        },
+
+        {
+            "answerId": 31,
+            "isCorrect": 0
+        },
+
+        {
+            "answerId": 32,
+            "isCorrect": 1
+        }
+    ]
+}
