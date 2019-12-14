@@ -1,6 +1,6 @@
 # exams-analysing
 Test task.
-Test task.
+
 Solution:
 1. Reads users' exam passing results from jsons
 2. Evaluates users' scores according to trainers' answers
